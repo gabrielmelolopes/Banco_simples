@@ -1,5 +1,3 @@
-package Exercicio_gpt;
-
 import java.util.Scanner;
 
 public class Main {
